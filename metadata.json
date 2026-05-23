@@ -1,0 +1,6 @@
+{
+  "name": "Chattrix",
+  "description": "A premium, futuristic messaging app with WhatsApp-like core features and built-in AI assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
